@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 </a>
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylor-curtis&layout=compact&line_height=1&count_private=true&langs_count=3&theme=dracula" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylor-curtis&card_width=495&count_private=true&langs_count=3&theme=dracula" />
 </a>
