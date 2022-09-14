@@ -1,5 +1,4 @@
-## Hello! I'm Taylor 👋💻
-
+## Hello! I'm Taylor 
 <!--
 **mralanlee/mralanlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +16,8 @@ Here are some ideas to get you started:
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=taylor-curtis&layout=compact&count_private=true&show_icons=true&theme=dracula" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=taylor-curtis&layout=compact&&line_height=27count_private=true&show_icons=true&theme=dracula&hide_title=true" />
 </a>
-</br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylor-curtis&card_width=495&count_private=true&langs_count=3&theme=dracula" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylor-curtis&card_width=495&count_private=true&langs_count=3&theme=dracula&hide_title=true" />
 </a>
