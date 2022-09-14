@@ -1,6 +1,10 @@
 
-### Hello! I'm Taylor  
-:office::computer: SRE @ <a href="https://vivun.com">vivun</a>
+### Hello! I'm Taylor</br>
+:office::computer: I am currently an SRE @ <a href="https://vivun.com">vivun</a>
+</br>
+
+Check out <a href="https://unxpctd.vivun.com/?utm_medium=taylor-curtis&utm_source=employee&utm_campaign=unxpctd">UNXPCTD</a></br>
+A virtual industry conference for revenue-facing teams to redefine the B2B buyer experience.
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
