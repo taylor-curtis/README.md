@@ -1,6 +1,6 @@
 
 ### Hello! I'm Taylor</br>
-:office::computer: I am currently an SRE @ <a href="https://vivun.com">vivun</a>
+:office::computer: SRE @ <a href="https://vivun.com">vivun</a>
 </br>
 
 ## Github Stats
